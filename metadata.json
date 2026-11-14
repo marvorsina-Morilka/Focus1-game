@@ -1,0 +1,6 @@
+{
+  "name": "English Quest: Units 1-8 Interactive Game",
+  "description": "Інтерактивна навчальна гра з англійської мови за юнітами 1-8: вікторини, складання речень, зіставлення пар, пошук зайвого, сортування та діалоги.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
