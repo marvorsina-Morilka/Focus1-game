@@ -27,5 +27,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Focus1-game/', // Замініть на точну назву вашого репозиторію з урахуванням регістру
+  base: '/Focus1-game/', // https://marvorsina-morilka.github.io/Focus1-game/
 })
